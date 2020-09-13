@@ -1,5 +1,5 @@
 {
-  "name": "My Token List",
+  "name": "Lix Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     "audited",
@@ -16,7 +16,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xad0d0AC8d984919A13D92e26c39331f7c0d7b17E",
+      "address": "0x2B14Db43c665542f2bCd0b4dF71404ff79aeBDab",
       "symbol": "LIX",
       "name": "Linixiao Token",
       "decimals": 20,
