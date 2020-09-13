@@ -1,5 +1,5 @@
 {
-  "name": "Lix Token List",
+  "name": "Linuxiao Tokens",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     "audited",
@@ -10,19 +10,34 @@
     "stablecoin": {
       "name": "Stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": "Tokens that earn interest on compound.finance"
     }
   },
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B14Db43c665542f2bCd0b4dF71404ff79aeBDab",
-      "symbol": "LIX",
-      "name": "Linixiao Token",
-      "decimals": 20,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
         "stablecoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B14Db43c665542f2bCd0b4dF71404ff79aeBDab",
+      "symbol": "Lix",
+      "name": "LixToken",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "tags": [
+        "compound"
       ]
     }
   ],
